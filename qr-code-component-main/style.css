@@ -1,0 +1,38 @@
+body{
+    background-color: #d5e1ef;
+    font-family: "Libre Baskerville", serif;
+}
+.main{
+    background-color: whitesmoke;
+    width: 25vw;
+    height: 80vh;
+    margin: 10% 0%;
+    margin-left: 40%;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+img{
+    width: 23vw;
+    height: 40vh;
+    margin: 15px;
+    border-radius: 12px;
+}
+h2{
+    margin: 15px;
+    text-align: center;
+}
+p{
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
